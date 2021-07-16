@@ -4,4 +4,4 @@
 
 -I’m currently learning: Git/GitHub  
 
--I will learn in the future: Kotlin, Android Studio, Flutter, React Native.
+-I will learn in the future: Kotlin, Android Studio, Flutter.
