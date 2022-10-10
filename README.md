@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael Tozzo</h1>
-<h3 align="center">I’m passionate about technology and its innovations, I've been working with mobile development, I'm constantly learning and focused on improving my skills every day.</h3>
+<h3 align="center">I'm passionate about technology and its innovations, if you're like me, welcome to my GitHub!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
